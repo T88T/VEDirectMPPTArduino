@@ -1,0 +1,19 @@
+# Syntax Coloring Map For VictronVEDirectArduino
+
+# Datatypes (KEYWORD1)
+VE_MPPT	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+isConnected	KEYWORD2
+update	KEYWORD2
+setLogStream	KEYWORD2
+logData	KEYWORD2
+getData	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Structures (KEYWORD3)
+    
+# Constants (LITERAL1)
+VE_VERBOSE	LITERAL1
+
