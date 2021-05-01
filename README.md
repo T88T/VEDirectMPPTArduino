@@ -1,5 +1,7 @@
 # VEDirectMPPTArduino
-Small library to fetch and easily log data from Victron Energy MPPT
+Small library to fetch and easily log data from Victron Energy MPPT.
+
+ℹ️ You'll need ton install first **[VictonVEDirectArduino](https://github.com/T88T/VictronVEDirectArduino)** library in order to communicate with the MPPT
 
 # Available data
 
